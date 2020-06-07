@@ -30,7 +30,7 @@
             </p><!-- .footer-copyright -->
 
             <p class="powered-by-wordpress">
-                <a href="<?php echo esc_url(__('https://creatingdrew.com', 'twentytwenty')); ?>">
+                <a href="<?php echo esc_url(__('https://creatingdrew.com', 'twentytwenty')); ?>" target="_blank">
                     <?php _e('Made with ❤️ by Drew Douglass', 'twentytwenty'); ?>
                 </a>
             </p><!-- .powered-by-wordpress -->
